@@ -1,2 +1,2 @@
 # hello-world
-just train
+2019-04-13 the first day that i use github.
